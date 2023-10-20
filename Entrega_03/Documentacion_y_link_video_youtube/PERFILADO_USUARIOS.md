@@ -1,0 +1,9 @@
+# Perfilado
+
+##### Primeramente pensamos en crear un sitio donde diferentes tipos de usuarios pudieran acceder y entenderse en nuestro sitio incluso si sus necesidades en torno a los felinos eran diferentes. Para ello planteamos que todos tuviesen un interés en los felinos endémicos pero con diferentes niveles de profundidad en la información, tipo de acceso que tenían a ello y su tiempo disponible.
+
+##### Ante ello propusimos usuarios más infantiles y otros más adultos con diferentes tiempo libre, donde todo convergió en que la información debe presentarse de manera clara para que, por un lado, los usuarios más jóvenes no se pierdan y los que tengan menos tiempo como los adultos no pierdan el tiempo navegando innecesariamente: que encuentren todo de manera fácil e intuitiva. 
+
+##### También pensamos en los niveles de profundidad de la información según qué usuarios, por ejemplo planteamos el de una escolar que busca por mera curiosidad, el de un universitario que busca información completa con fuentes para un trabajo y la de un hombre que busca para sus redes sociales información clara pero muy visual para ser publicada en sus redes, de esta forma podíamos abarcar a usuarios que tuviesen en mente una idea más cercana a una identidad visual muy minimalista, entendible, intuitiva, y que al mismo tiempo pudiese contener diferentes grados de profundidad en la información entregada y no por ello dejar de ser verídica y correcta. 
+
+##### Los journeymap los pensamos de la misma manera siguiento estos parámetros e identificando (y resolviendo)todos los posibles problemas que pudiesen experimentar antes y durante la búsqueda de un sitio web o webstory que cumpliese con sus necesidades. 
