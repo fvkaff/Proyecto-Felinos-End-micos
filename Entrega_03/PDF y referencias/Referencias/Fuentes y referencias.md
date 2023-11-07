@@ -6,7 +6,7 @@
 3. https://www.britannica.com/animal/native-cat
 4. ![Alt text](image-1.png)
 5. ![Alt text](image-2.png)
-6. 
+
 
 
 

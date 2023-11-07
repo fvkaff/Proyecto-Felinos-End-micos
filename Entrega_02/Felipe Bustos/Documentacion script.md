@@ -14,7 +14,6 @@ datos = pd.read_excel("/content/drive/MyDrive/Colab Notebooks/Cat-checklist-at-F
 chile = "Chile"
 chile2 = "CHILE"
 chile3 = "chile"
-
 ## Aquí cree un data frame que haga el filtro con las formas de escribir Chile en las diferentes columnas
 
 # Filtrar los datos para las variables de búsqueda
