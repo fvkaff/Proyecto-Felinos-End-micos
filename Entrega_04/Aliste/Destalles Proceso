@@ -1,0 +1,29 @@
+# Proceso "Uso diario del territorio"
+# Lo primero que hice fue tomar infromación de la entrega 02, es decir la de limpiar datos, la cual hablaba de la categoría en que se encuentran los felinos (por peloro de extinción)
+# No quise tratar solo aquella variable cualitativa, por lo que consultando archivos guardados por nosotros durante el proceso d einvestigación di con la cantidad de km de uso diario del territorio. Esto se refiere a los km cuadrados capaces de ser recorridos por cada una de estas especies en un día (en su diario vivir)
+# La información a la que llegamos son estimaciones y quedan así:
+1. Gato Andino: entre 45-65 km cuadrados
+2. Puma: 100-500 km2
+3. Gato Colo Colo: 12-55 km2
+4. Gato de Geoffroy: 2-12 km2
+5. Güiña: 0,3-22,4 km2
+# Debido a que estos datos son estimaciones y (según documentación leída) varía según el territorio/país en el que se encuentren, decidí mejor sacar el promedio y graficar con ellos 
+# la lista de promedio quedaría así: 
+1. Gato Andino: 55 km2
+2. Puma: 300 km2
+3. Gato Colo Colo: 11,35 km2
+4. Gato de Geoffroy: 7 km2
+5. Güiña: 33,5 km2
+
+# Con estos datos hice un gráfico sencillo de barras 
+# No quería dejar fuera la información de la entrega 02 (que mencioné al inicio), por lo que los colores utilizados se basan en esta, es decir en la categoría de conservación en que se encutran estas especies respecto a su peligro de extinción 
+
+ # VERDE: Especie "casi amenazada" (NT)
+ # AMARILLO: Especie "vulnerable" (VU)
+ # NARANJO: Especie "en peliro" (EN)
+ 
+ # Esto según una tabla elaborada por el Gobierno ("Foto gob categorías.png)
+ ![Alt text](image.png)
+
+ # Esta infomación nos ayudaría a responder infromación respecto a los hábitos de estos felinos, podemos estimar sus conductas como si son nómadas, relacionar sus tamaños con cuanto se mueven diariamente, si su hábitat incide en aquello. entre otras. Por supuesto esto nos abre la posibilidad de hablar con algún biólogo, mostrarle nuestra recopilación y que él o ella pueda darnos más antecesdentes y razones al respecto, lo cual enriquecería nuestra investigación. 
+ # A esto se le suma el que a la vez, enseñamos a qué categorúa de conservación pertenecen, lo cual también ayudaría a relacionar su tamaño y recorrido en kilómetros con la caza. Por ejeplo, el puma en uan espcie grande que recorre varios kilómetro y es común que llegue a zonas urbanas o rurales agrícolas, por lo que es un factor común que sean cazados debido al "peligro" que representan a la población.  
